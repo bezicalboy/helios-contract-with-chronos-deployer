@@ -39,7 +39,7 @@ The script performs two main actions:
 
     ```
     # private_keys.txt
-    your_private_key_here_0123456789abcdef...
+    0xblablabla
     ```
     **Note**: The script only reads the first line of this file.
 
