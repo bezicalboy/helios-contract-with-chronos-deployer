@@ -38,8 +38,7 @@ The script performs two main actions:
     In the same directory as the script, create a file named `private_keys.txt`. Inside this file, paste the private key of your funded Helios testnet account.
 
     ```
-    # private_keys.txt
-    0xblablabla
+    0xYourPrivateKey
     ```
     **Note**: The script only reads the first line of this file.
 
